@@ -1,5 +1,8 @@
 package com.yespon.ssm.patterns.proxy.jdk;
 
+import com.yespon.ssm.patterns.proxy.HelloWorld;
+import com.yespon.ssm.patterns.proxy.HelloWorldImpl;
+
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;

@@ -1,4 +1,4 @@
-package com.yespon.ssm.patterns.proxy.jdk;
+package com.yespon.ssm.patterns.proxy;
 
 /**
  * @author liuyp

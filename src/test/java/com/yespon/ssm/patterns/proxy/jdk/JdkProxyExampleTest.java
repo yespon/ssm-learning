@@ -1,6 +1,7 @@
 package com.yespon.ssm.patterns.proxy.jdk;
 
-import static org.junit.Assert.*;
+import com.yespon.ssm.patterns.proxy.HelloWorld;
+import com.yespon.ssm.patterns.proxy.HelloWorldImpl;
 
 /**
  * @author liuyp
